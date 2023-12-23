@@ -1,0 +1,14 @@
+{
+  "name": "engine",
+  "version": "0.0.1",
+  "description": "2D engine based on 2d rendering context for making game",
+  "main": "index.js",
+  "scripts": {
+    "dev":"tsc --watch",
+    "build":"tsc",
+    "test":"serve"
+  },
+  "keywords": ["engine 2d" ,"game 2d"],
+  "author": "Jisan",
+  "license": "ISC"
+}
